@@ -28,7 +28,7 @@ South==1.0.2
 tinycss==0.3
 tinycss2==0.6.1
 tornado==5.1.1
-urllib3==1.24.1
+urllib3==1.24.2
 vine==1.1.4
 WeasyPrint==0.24
 webencodings==0.5.1
